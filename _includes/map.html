@@ -1,4 +1,4 @@
-<div id="map" style="height:420px; width:100%"></div>
+<div id="map" style="height:420px; width:100%" class="{{ include.class }}"></div>
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     var map = L.map('map').setView([48.84172, 2.58758], {{ include.zoom }});
