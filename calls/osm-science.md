@@ -18,7 +18,7 @@ The goal of OSM Science 2026 is to showcase the research and innovation of scien
 
 <h2 id="guidelines">Submission Guidelines</h2>
 
-Authors are invited to submit extended abstracts using the OSM Science 2026 [Pretalx submission system](https://pretalx.com/sotm2026-osm-science/cfp). Deadline for submission is **27 April 2026**.
+Authors are invited to submit extended abstracts using the OSM Science 2026 [Pretalx submission system](https://pretalx.com/sotm2026-osm-science/cfp). Deadline for submission is **11 May 2026**.
 
 Abstracts should be between 800 and 1200 words.
 
@@ -34,7 +34,7 @@ The 2019 and 2020 Academic Track resulted in a [special issue](https://www.mdpi.
 
 <h2 id="timeline_deadlines">Timeline and Deadlines</h2>
 
-- **27 April 2026: Deadline OSM-Science talk submissions**
+- **11 May 2026: Deadline OSM-Science talk submissions**
 - 15 June 2026: Notification of acceptance / rejection
 - 29 June 2026: Program announcement
 - 1 August 2026: Camera ready copy for proceedings deadline
