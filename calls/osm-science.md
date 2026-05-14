@@ -34,15 +34,11 @@ The 2019 and 2020 Academic Track resulted in a [special issue](https://www.mdpi.
 
 <h2 id="timeline_deadlines">Timeline and Deadlines</h2>
 
-- **11 May 2026: Deadline OSM-Science talk submissions**
+- **11 May 2026: Deadline OSM-Science talk submissions (CLOSED)**
 - 15 June 2026: Notification of acceptance / rejection
 - 29 June 2026: Program announcement
 - 1 August 2026: Camera ready copy for proceedings deadline
 - 28-30 August 2026: OSM Science at State of the Map 2026
-
-<h2 id="submit">Submit your presentation proposal</h2>
-
-Please submit your presentation proposal for OSM-Science 2026 to our specific **[submission form](https://pretalx.com/sotm2026-osm-science/cfp)**.
 
 <h2 id="committee">Academic Track Co-chairs and Committee</h2>
 
