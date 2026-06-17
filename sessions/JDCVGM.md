@@ -2,7 +2,7 @@
 layout: session
 title: "One region. 40,000 bus stops. An OSM map at every one."
 code: "JDCVGM"
-speaker_names: ["Sergio Luke"]
+speaker_names: ["Sergio Luke", "Florian Lainez"]
 affiliations: None
 room: "Martinique"
 length: "20"
